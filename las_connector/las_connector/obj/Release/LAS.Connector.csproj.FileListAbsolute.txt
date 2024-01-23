@@ -1,0 +1,33 @@
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\LAS Connector.exe.config
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\LAS Connector.exe
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\LAS Connector.pdb
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\EntityFramework.dll
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\LSP.Common.dll
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\LSP.Common.pdb
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\EntityFramework.xml
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\Newtonsoft.Json.xml
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\System.Data.SQLite.xml
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Release\System.Data.SQLite.dll.config
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LAS.Connector.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.DataHistory.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.DeviceMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.FtpSetting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.Login.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.MainForm.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\sdms_connector.Properties.Resources.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.ClientMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\sdms_connector.Rs232Setting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.ScheduleMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.ServerMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.ServerReg.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LASConnector.SubForm.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\sdms_connector.ParsingView.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\sdms_connector.TcpSetting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LAS.Connector.csproj.GenerateResource.cache
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LAS.Connector.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LAS.Connector.csproj.CopyComplete
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LAS Connector.exe
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Release\LAS Connector.pdb

@@ -1,0 +1,125 @@
+D:\VSProjects\las_connector\las_connector\bin\Debug\LAS Connector.exe.config
+D:\VSProjects\las_connector\las_connector\bin\Debug\LAS Connector.exe
+D:\VSProjects\las_connector\las_connector\bin\Debug\LAS Connector.pdb
+D:\VSProjects\las_connector\las_connector\bin\Debug\EntityFramework.dll
+D:\VSProjects\las_connector\las_connector\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProjects\las_connector\las_connector\bin\Debug\LSP.Common.dll
+D:\VSProjects\las_connector\las_connector\bin\Debug\Newtonsoft.Json.dll
+D:\VSProjects\las_connector\las_connector\bin\Debug\LSP.Common.pdb
+D:\VSProjects\las_connector\las_connector\bin\Debug\EntityFramework.xml
+D:\VSProjects\las_connector\las_connector\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProjects\las_connector\las_connector\bin\Debug\Newtonsoft.Json.xml
+D:\VSProjects\las_connector\las_connector\obj\Debug\LAS.Connector.csprojAssemblyReference.cache
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.DataHistory.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.DeviceMng.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.FtpSetting.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.Login.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.MainForm.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.ClientMng.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\sdms_connector.Rs232Setting.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.ScheduleMng.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.ServerMng.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.ServerReg.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LASConnector.SubForm.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\sdms_connector.ParsingView.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\sdms_connector.TcpSetting.resources
+D:\VSProjects\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.GenerateResource.cache
+D:\VSProjects\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.CoreCompileInputs.cache
+D:\VSProjects\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.CopyComplete
+D:\VSProjects\las_connector\las_connector\obj\Debug\LAS Connector.exe
+D:\VSProjects\las_connector\las_connector\obj\Debug\LAS Connector.pdb
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\LAS Connector.exe.config
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\LAS Connector.exe
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\LAS Connector.pdb
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\EntityFramework.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\LSP.Common.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\LSP.Common.pdb
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\EntityFramework.xml
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csprojAssemblyReference.cache
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.DataHistory.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.DeviceMng.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.FtpSetting.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.Login.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.MainForm.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.ClientMng.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\sdms_connector.Rs232Setting.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.ScheduleMng.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.ServerMng.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.ServerReg.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LASConnector.SubForm.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\sdms_connector.ParsingView.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\sdms_connector.TcpSetting.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.GenerateResource.cache
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.CoreCompileInputs.cache
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.CopyComplete
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LAS Connector.exe
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\las_connector\las_connector\obj\Debug\LAS Connector.pdb
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\LAS Connector.exe.config
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\LAS Connector.exe
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\LAS Connector.pdb
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\EntityFramework.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\LSP.Common.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\LSP.Common.pdb
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\EntityFramework.xml
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.AssemblyReference.cache
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.DataHistory.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.DeviceMng.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.FtpSetting.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.Login.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.MainForm.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.ClientMng.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\sdms_connector.Rs232Setting.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.ScheduleMng.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.ServerMng.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.ServerReg.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LASConnector.SubForm.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\sdms_connector.ParsingView.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\sdms_connector.TcpSetting.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.GenerateResource.cache
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.CoreCompileInputs.cache
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.CopyComplete
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LAS Connector.exe
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\las_connector\las_connector\obj\Debug\LAS Connector.pdb
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\LAS Connector.exe.config
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\LAS Connector.exe
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\LAS Connector.pdb
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\LSP.Common.dll
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\LSP.Common.pdb
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.DataHistory.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.DeviceMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.FtpSetting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.Login.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.MainForm.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.ClientMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\sdms_connector.Rs232Setting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.ScheduleMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.ServerMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.ServerReg.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LASConnector.SubForm.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\sdms_connector.ParsingView.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\sdms_connector.TcpSetting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.GenerateResource.cache
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LAS.Connector.csproj.CopyComplete
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LAS Connector.exe
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\Debug\LAS Connector.pdb

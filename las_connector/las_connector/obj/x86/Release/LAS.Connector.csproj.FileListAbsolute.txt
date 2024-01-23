@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LAS.Connector.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.DataHistory.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.DeviceMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.FtpSetting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.Login.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.MainForm.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\sdms_connector.Properties.Resources.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.ClientMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\sdms_connector.Rs232Setting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.ScheduleMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.ServerMng.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.ServerReg.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LASConnector.SubForm.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\sdms_connector.ParsingView.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\sdms_connector.TcpSetting.resources
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LAS.Connector.csproj.GenerateResource.cache
+C:\Users\user\Documents\Github\ilab-connector\las_connector\las_connector\obj\x86\Release\LAS.Connector.csproj.CoreCompileInputs.cache
