@@ -1,0 +1,137 @@
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe.config
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.pdb
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\EntityFramework.dll
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\LSP.Common.dll
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.dll
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\LSP.Common.pdb
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\EntityFramework.xml
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.xml
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.xml
+D:\VSProjects\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll.config
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csprojAssemblyReference.cache
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.FtpSetting.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Login.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.DataHistory.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.MainForm.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ClientMng.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.PdfForm.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ScheduleMng.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerMng.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerReg.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubFolderPop.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubForm.resources
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.GenerateResource.cache
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.CoreCompileInputs.cache
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.CopyComplete
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.exe
+D:\VSProjects\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.pdb
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe.config
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.pdb
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\EntityFramework.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\LSP.Common.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\LSP.Common.pdb
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\EntityFramework.xml
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.xml
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csprojAssemblyReference.cache
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.FtpSetting.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Login.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.DataHistory.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.MainForm.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ClientMng.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.PdfForm.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ScheduleMng.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerMng.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerReg.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubFolderPop.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubForm.resources
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.GenerateResource.cache
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.CoreCompileInputs.cache
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.CopyComplete
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.exe
+C:\Users\jgk03\OneDrive\문서\svn\ilab\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.pdb
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.AssemblyReference.cache
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.FtpSetting.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Login.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.DataHistory.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.MainForm.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ClientMng.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.PdfForm.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ScheduleMng.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerMng.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerReg.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubFolderPop.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubForm.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.GenerateResource.cache
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.exe
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.pdb
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe.config
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.pdb
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\EntityFramework.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\LSP.Common.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\LSP.Common.pdb
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\EntityFramework.xml
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.xml
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.CoreCompileInputs.cache
+C:\Users\Bioconnect\Desktop\새 폴더 (4)\Project1\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.CopyComplete
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe.config
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.pdb
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\LSP.Common.dll
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\LSP.Common.pdb
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.FtpSetting.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Login.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.DataHistory.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.MainForm.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ClientMng.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.PdfForm.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ScheduleMng.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerMng.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerReg.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubFolderPop.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubForm.resources
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.GenerateResource.cache
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\SDMS.Connector.csproj.CopyComplete
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.exe
+C:\Users\user\Documents\Github\ilab-connector\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.pdb

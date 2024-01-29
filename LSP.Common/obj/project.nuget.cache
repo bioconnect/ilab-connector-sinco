@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QHuhk+lpYsA0ZUQkwpJlvCbvCsmWbBZa85BYcDAJQHZ8xdrHExVBfWVtDDxrSB2rq94ffz7aw1FYnygMI/Tj9w==",
+  "dgSpecHash": "3uAY7k0Lt2E6cj10POaMwLGGS6F99q6Ae6AWNuE9nh7dVFpPWZP8ioUzBkKHu3dC48J+3AfgVt0nm0Zj6WYNaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\Github\\ilab-connector\\LSP.Common\\LSP.Common.csproj",
+  "projectFilePath": "C:\\Users\\17z990\\Documents\\ilab-connector-sinco\\LSP.Common\\LSP.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite\\1.0.113.1\\system.data.sqlite.1.0.113.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.1\\system.data.sqlite.core.1.0.113.1.nupkg.sha512"
+    "C:\\Users\\17z990\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\17z990\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\17z990\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\17z990\\.nuget\\packages\\system.data.sqlite\\1.0.113.1\\system.data.sqlite.1.0.113.1.nupkg.sha512",
+    "C:\\Users\\17z990\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.1\\system.data.sqlite.core.1.0.113.1.nupkg.sha512"
   ],
   "logs": []
 }
