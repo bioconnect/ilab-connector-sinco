@@ -24,6 +24,7 @@ namespace sdms_connector
 
         public string svrNm;
         public string svrIp;
+        DateTime nowDate = DateTime.Now;
 
         public Login()
         {
@@ -237,6 +238,11 @@ namespace sdms_connector
                 Password_Change_Form pCF = new Password_Change_Form();
                 pCF.ShowDialog();
             }
+            else if (resultJson["termsDay"].ToString().Equals('a'))
+            {
+                Password_Change_Form pCF = new Password_Change_Form();
+                pCF.ShowDialog();
+            }
         }
 
         // 서버셋팅 버튼 클릭시
@@ -311,6 +317,8 @@ namespace sdms_connector
         }
         #endregion
     }
+
+    #region 비밀번호 변경 이벤트
     public class Password_Change_Form : Form
     {
         private TextBox newPWTextBox;
@@ -407,4 +415,5 @@ namespace sdms_connector
             }
         }
     }
+    #endregion
 }

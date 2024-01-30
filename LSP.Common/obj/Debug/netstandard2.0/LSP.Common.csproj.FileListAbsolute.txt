@@ -45,3 +45,12 @@ C:\Users\user\Documents\Github\ilab-connector\LSP.Common\obj\Debug\netstandard2.
 C:\Users\user\Documents\Github\ilab-connector\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.dll
 C:\Users\user\Documents\Github\ilab-connector\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.pdb
 C:\Users\user\Documents\Github\ilab-connector\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.csproj.AssemblyReference.cache
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\bin\Debug\netstandard2.0\LSP.Common.deps.json
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\bin\Debug\netstandard2.0\LSP.Common.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\bin\Debug\netstandard2.0\LSP.Common.pdb
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.csproj.AssemblyReference.cache
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.AssemblyInfoInputs.cache
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.AssemblyInfo.cs
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.csproj.CoreCompileInputs.cache
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\LSP.Common\obj\Debug\netstandard2.0\LSP.Common.pdb

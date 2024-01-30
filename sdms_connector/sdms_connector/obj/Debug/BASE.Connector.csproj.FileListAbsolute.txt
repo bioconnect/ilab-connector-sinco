@@ -66,3 +66,37 @@ C:\Users\17z990\Documents\ilab-connector-origin\sdms_connector\sdms_connector\ob
 C:\Users\17z990\Documents\ilab-connector-origin\sdms_connector\sdms_connector\obj\Debug\BASE.Connector.csproj.CopyComplete
 C:\Users\17z990\Documents\ilab-connector-origin\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.exe
 C:\Users\17z990\Documents\ilab-connector-origin\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.pdb
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe.config
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.exe
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\SDMS Connector.pdb
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\EntityFramework.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\LSP.Common.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\LSP.Common.pdb
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\EntityFramework.xml
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.xml
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\BASE.Connector.csproj.AssemblyReference.cache
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.FtpSetting.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Login.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.DataHistory.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.MainForm.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.Properties.Resources.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ClientMng.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.PdfForm.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ScheduleMng.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerMng.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.ServerReg.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubFolderPop.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\sdms_connector.SubForm.resources
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\BASE.Connector.csproj.GenerateResource.cache
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\BASE.Connector.csproj.CoreCompileInputs.cache
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\BASE.Connector.csproj.CopyComplete
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.exe
+C:\Users\17z990\Documents\ilab-connector-sinco\sdms_connector\sdms_connector\obj\Debug\SDMS Connector.pdb
