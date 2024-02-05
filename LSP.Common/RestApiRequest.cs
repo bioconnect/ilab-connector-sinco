@@ -50,7 +50,8 @@ namespace LSP.Common
         public static JObject CallSync(JObject reqParams, string targetUrl)
         {
             // authtoken 붙이기
-            reqParams.Add("authToken", Global.authToken);
+            if (!reqParams.ContainsKey("authToken"))
+                reqParams.Add("authToken", Global.authToken);
             if (!reqParams.ContainsKey("regId"))
                 reqParams.Add("regId", Global.userPk);
 

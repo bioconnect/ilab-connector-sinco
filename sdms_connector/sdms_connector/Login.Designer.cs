@@ -53,7 +53,7 @@
             this.tbUserID.Font = new System.Drawing.Font("굴림", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
             this.tbUserID.ForeColor = System.Drawing.Color.Gray;
             this.tbUserID.Location = new System.Drawing.Point(4, 4);
-            this.tbUserID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbUserID.Margin = new System.Windows.Forms.Padding(4);
             this.tbUserID.Name = "tbUserID";
             this.tbUserID.Size = new System.Drawing.Size(364, 24);
             this.tbUserID.TabIndex = 1;
@@ -68,7 +68,7 @@
             this.tbPwd.Font = new System.Drawing.Font("굴림", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
             this.tbPwd.ForeColor = System.Drawing.Color.Gray;
             this.tbPwd.Location = new System.Drawing.Point(4, 64);
-            this.tbPwd.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbPwd.Margin = new System.Windows.Forms.Padding(4);
             this.tbPwd.Name = "tbPwd";
             this.tbPwd.Size = new System.Drawing.Size(364, 24);
             this.tbPwd.TabIndex = 2;
@@ -83,7 +83,7 @@
             this.tbServer.Enabled = false;
             this.tbServer.Font = new System.Drawing.Font("굴림", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
             this.tbServer.Location = new System.Drawing.Point(0, 0);
-            this.tbServer.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbServer.Margin = new System.Windows.Forms.Padding(4);
             this.tbServer.Name = "tbServer";
             this.tbServer.Size = new System.Drawing.Size(330, 24);
             this.tbServer.TabIndex = 5;
@@ -98,7 +98,7 @@
             this.btnLogin.Font = new System.Drawing.Font("굴림", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
             this.btnLogin.ForeColor = System.Drawing.SystemColors.Window;
             this.btnLogin.Location = new System.Drawing.Point(4, 4);
-            this.btnLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(4);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(374, 58);
             this.btnLogin.TabIndex = 7;
@@ -113,7 +113,7 @@
             this.btnSvrSetting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSvrSetting.Image = global::sdms_connector.Properties.Resources.icon_menu02_FTPsetting1;
             this.btnSvrSetting.Location = new System.Drawing.Point(332, 0);
-            this.btnSvrSetting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSvrSetting.Margin = new System.Windows.Forms.Padding(4);
             this.btnSvrSetting.Name = "btnSvrSetting";
             this.btnSvrSetting.Size = new System.Drawing.Size(36, 28);
             this.btnSvrSetting.TabIndex = 6;
@@ -132,7 +132,7 @@
             this.tableLayoutPanel1.Controls.Add(this.cbLanguage, 0, 4);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(4, 4);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 5;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 60F));
@@ -148,7 +148,7 @@
             this.panel2.Controls.Add(this.tbServer);
             this.panel2.Controls.Add(this.btnSvrSetting);
             this.panel2.Location = new System.Drawing.Point(4, 124);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(364, 50);
             this.panel2.TabIndex = 5;
@@ -161,7 +161,7 @@
             this.cbPlant.Font = new System.Drawing.Font("굴림", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
             this.cbPlant.FormattingEnabled = true;
             this.cbPlant.Location = new System.Drawing.Point(4, 184);
-            this.cbPlant.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbPlant.Margin = new System.Windows.Forms.Padding(4);
             this.cbPlant.Name = "cbPlant";
             this.cbPlant.Size = new System.Drawing.Size(362, 22);
             this.cbPlant.TabIndex = 4;
@@ -176,7 +176,7 @@
             this.cbLanguage.Font = new System.Drawing.Font("굴림", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
             this.cbLanguage.FormattingEnabled = true;
             this.cbLanguage.Location = new System.Drawing.Point(4, 244);
-            this.cbLanguage.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbLanguage.Margin = new System.Windows.Forms.Padding(4);
             this.cbLanguage.Name = "cbLanguage";
             this.cbLanguage.Size = new System.Drawing.Size(362, 22);
             this.cbLanguage.TabIndex = 3;
@@ -189,7 +189,7 @@
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel1, 0, 0);
             this.tableLayoutPanel2.Location = new System.Drawing.Point(894, 404);
-            this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 1;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -203,7 +203,7 @@
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel3.Controls.Add(this.btnLogin, 0, 0);
             this.tableLayoutPanel3.Location = new System.Drawing.Point(894, 598);
-            this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -219,7 +219,7 @@
             this.ClientSize = new System.Drawing.Size(1370, 890);
             this.Controls.Add(this.tableLayoutPanel3);
             this.Controls.Add(this.tableLayoutPanel2);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Login";
             this.Text = "Form1";
             this.tableLayoutPanel1.ResumeLayout(false);

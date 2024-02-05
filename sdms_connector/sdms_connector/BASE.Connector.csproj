@@ -92,6 +92,9 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PWChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FtpSetting.cs">
       <SubType>Form</SubType>
     </Compile>

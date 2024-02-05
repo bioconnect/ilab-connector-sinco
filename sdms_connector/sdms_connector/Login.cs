@@ -24,7 +24,8 @@ namespace sdms_connector
 
         public string svrNm;
         public string svrIp;
-        DateTime nowDate = DateTime.Now;
+        static public JObject req_send;
+        static public string tbServer_send;
 
         public Login()
         {
@@ -59,7 +60,6 @@ namespace sdms_connector
             {
                 tbServer.Text = dt.Rows[0]["SVR_NM"].ToString();
                 tbServer.Tag = dt.Rows[0]["SVR_IP"].ToString();
-
                 // 입력필드 활성화
                 ActiveInputControl();
             }
@@ -219,7 +219,14 @@ namespace sdms_connector
             // call
             string targetUrl = "http://" + tbServer.Tag + "/api/config/login.do";
             JObject resultJson = RestApiRequest.CallSync(reqParams, targetUrl);
-            if (resultJson["pwModWh"].ToString().Equals("C"))
+            tbServer_send = tbServer.Tag.ToString();
+            req_send = reqParams;
+            int numToEndDate = Convert.ToInt32(resultJson["daysToEndDate"].ToString());
+            if (numToEndDate < 10)
+            {
+                MessageBox.Show("password 만료 기간까지 " + numToEndDate + "일 남았습니다.");
+            }
+            if (resultJson["pwModWh"].ToString().Equals("C") && numToEndDate > 0)
             {
                 // response - 정상로그인시 서버url, 플랜트코드는 글로벌 값으로 셋팅함.
                 Global.svrUrl = tbServer.Tag.ToString();
@@ -227,19 +234,15 @@ namespace sdms_connector
 
                 // Set 다국어
                 SetMultiLanguage(cbLanguage.SelectedValue.ToString(), cbPlant.SelectedValue.ToString());
-
+                MessageBox.Show("로그인을 성공하였습니다.");
                 // 로그인폼에서 메인폼에 이벤트 전달
                 this.FrmSendEvent(resultJson);
 
                 Cursor.Current = Cursors.Default;
             }
-            if (resultJson["pwModWh"].ToString().Equals("A"))
+            if (resultJson["pwModWh"].ToString().Equals("A") || numToEndDate <= 0)
             {
-                Password_Change_Form pCF = new Password_Change_Form();
-                pCF.ShowDialog();
-            }
-            else if (resultJson["termsDay"].ToString().Equals('a'))
-            {
+                SetBasicInfo();
                 Password_Change_Form pCF = new Password_Change_Form();
                 pCF.ShowDialog();
             }
@@ -326,23 +329,28 @@ namespace sdms_connector
         private Button confirmButton;
         private Button cancleButton;
 
+        static public string newPWText;
+
         public bool test = false;
         TextBox[] txtList;
-        const string IdPlaceholder = "신규 비밀번호를 입력해주세요.";
-        const string PwPlaceholder = "비밀번호 재입력해주세요.";
+        const string npwPlaceholder = "신규 비밀번호를 입력해주세요.";
+        const string cpwPlaceholder = "비밀번호 재입력해주세요.";
 
         public Password_Change_Form()
         {
             InitializeComponent();
-
+            defaultValues();
+        }
+        private void defaultValues()
+        {
             //ID, Password TextBox Placeholder 설정
             txtList = new TextBox[] { newPWTextBox, checkPWTextBox };
             foreach (var txt in txtList)
             {
                 //처음 공백 Placeholder 지정
                 txt.ForeColor = Color.DarkGray;
-                if (txt == newPWTextBox) txt.Text = IdPlaceholder;
-                else if (txt == checkPWTextBox) txt.Text = PwPlaceholder;
+                if (txt == newPWTextBox) txt.Text = npwPlaceholder;
+                else if (txt == checkPWTextBox) txt.Text = cpwPlaceholder;
                 //텍스트박스 커서 Focus 여부에 따라 이벤트 지정
                 txt.GotFocus += RemovePlaceholder;
                 txt.LostFocus += SetPlaceholder;
@@ -367,6 +375,7 @@ namespace sdms_connector
                 Location = new System.Drawing.Point(10, 100),
                 Size = new System.Drawing.Size(75, 30),
                 Text = "확인"
+
             };
 
             cancleButton = new Button
@@ -376,6 +385,7 @@ namespace sdms_connector
                 Text = "취소"
             };
             confirmButton.Click += confirmButton_Click;
+            cancleButton.Click += cancleButton_Click;
 
             Controls.Add(newPWTextBox);
             Controls.Add(checkPWTextBox);
@@ -388,15 +398,57 @@ namespace sdms_connector
 
         private void confirmButton_Click(object sender, EventArgs e)
         {
-            string change_pw = newPWTextBox.Text;
+            var reqParam = Login.req_send;
+            if (newPWTextBox.Text != checkPWTextBox.Text) 
+            {
+                MessageBox.Show("암호가 일치하지 않습니다. \n 다시 입력해주세요.");
+                defaultValues();
+            }
+            else if (newPWTextBox.Text.Length == 1)
+            {
+                MessageBox.Show("변경하실 비밀번호를 입력해주세요.");
+                defaultValues();
+            }
+            else if (newPWTextBox.Text == reqParam["currPw"].ToString())
+            {
+                MessageBox.Show("기존 암호와 동일합니다. \n 다시 입력해주세요.");
+                defaultValues();
+            }
+            else
+            {
+                if (!reqParam.ContainsKey("newPw"))
+                {
+                    reqParam.Add("newPw", newPWTextBox.Text);
+                }
+                else if (reqParam.ContainsKey("newPw"))
+                {
+                    reqParam["newPw"] = newPWTextBox.Text;
+                }
+                // call
+                string targetUrl = "http://" + Login.tbServer_send + "/api/config/login.do";
+                JObject resultJson = RestApiRequest.CallSync(reqParam, targetUrl);
 
-            MessageBox.Show("수정된 비밀번호를 확인합니다 -> ", change_pw);
+                if (resultJson["result"].ToString().Equals("false"))
+                {
+                    MessageBox.Show("암호가 정상적으로 변경되지 못하였습니다. \n 다시 입력해주세요.");
+                    defaultValues();
+                }
+                else
+                {
+                    MessageBox.Show("암호가 정상적 변경되었습니다. \n 변경된 비밀번호로 다시 로그인 해주세요.");
+                    this.Close();
+                }
+            }
+        }
+        private void cancleButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
 
-        private void RemovePlaceholder(object sender, EventArgs e)
+            private void RemovePlaceholder(object sender, EventArgs e)
         {
             TextBox txt = (TextBox)sender;
-            if (txt.Text == IdPlaceholder | txt.Text == PwPlaceholder)
+            if (txt.Text == npwPlaceholder | txt.Text == cpwPlaceholder)
             { //텍스트박스 내용이 사용자가 입력한 값이 아닌 Placeholder일 경우에만, 커서 포커스일때 빈칸으로 만들기
                 txt.ForeColor = Color.Black; //사용자 입력 진한 글씨
                 txt.Text = string.Empty;
@@ -410,8 +462,8 @@ namespace sdms_connector
             {
                 //사용자 입력값이 하나도 없는 경우에 포커스 잃으면 Placeholder 적용해주기
                 txt.ForeColor = Color.DarkGray; //Placeholder 흐린 글씨
-                if (txt == newPWTextBox) txt.Text = IdPlaceholder;
-                else if (txt == checkPWTextBox) { txt.Text = PwPlaceholder; checkPWTextBox.PasswordChar = default; }
+                if (txt == newPWTextBox) txt.Text = npwPlaceholder;
+                else if (txt == checkPWTextBox) { txt.Text = cpwPlaceholder; checkPWTextBox.PasswordChar = default; }
             }
         }
     }
