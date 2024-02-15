@@ -26,6 +26,8 @@ namespace sdms_connector
         public string svrIp;
         static public JObject req_send;
         static public string tbServer_send;
+        static public string req_min;
+        static public string req_max;
 
         public Login()
         {
@@ -221,6 +223,8 @@ namespace sdms_connector
             JObject resultJson = RestApiRequest.CallSync(reqParams, targetUrl);
             tbServer_send = tbServer.Tag.ToString();
             req_send = reqParams;
+            req_min = resultJson["minCnt"].ToString();
+            req_max = resultJson["maxCnt"].ToString();
             int numToEndDate = Convert.ToInt32(resultJson["daysToEndDate"].ToString());
             if (numToEndDate < 10)
             {
@@ -328,7 +332,6 @@ namespace sdms_connector
         private TextBox checkPWTextBox;
         private Button confirmButton;
         private Button cancleButton;
-
         static public string newPWText;
 
         public bool test = false;
@@ -361,7 +364,7 @@ namespace sdms_connector
             newPWTextBox = new TextBox
             {
                 Location = new System.Drawing.Point(20, 20),
-                Size = new System.Drawing.Size(200, 25)
+                Size = new System.Drawing.Size(200, 25),
             };
 
             checkPWTextBox = new TextBox
@@ -386,7 +389,10 @@ namespace sdms_connector
             };
             confirmButton.Click += confirmButton_Click;
             cancleButton.Click += cancleButton_Click;
-
+            newPWTextBox.PasswordChar = '*';
+            newPWTextBox.MaxLength = int.Parse(Login.req_max);
+            checkPWTextBox.PasswordChar = '*';
+            checkPWTextBox.MaxLength = int.Parse(Login.req_max);
             Controls.Add(newPWTextBox);
             Controls.Add(checkPWTextBox);
             Controls.Add(confirmButton);
@@ -407,6 +413,16 @@ namespace sdms_connector
             else if (newPWTextBox.Text.Length == 1)
             {
                 MessageBox.Show("변경하실 비밀번호를 입력해주세요.");
+                defaultValues();
+            }
+            else if (newPWTextBox.Text.Length < int.Parse(Login.req_min))
+            {
+                MessageBox.Show("변경하실 비밀번호를 최소"+ int.Parse(Login.req_min) + "자 이상 입력해주세요.");
+                defaultValues();
+            }
+            else if (int.Parse(Login.req_min) < int.Parse(Login.req_max) && newPWTextBox.Text.Length > int.Parse(Login.req_max))
+            {
+                MessageBox.Show("변경하실 비밀번호를 " + int.Parse(Login.req_max) + "자 미만으로 입력해주세요.");
                 defaultValues();
             }
             else if (newPWTextBox.Text == reqParam["currPw"].ToString())
