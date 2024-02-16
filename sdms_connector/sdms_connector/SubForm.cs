@@ -35,7 +35,11 @@ namespace sdms_connector
             // 클라이언트선택이 안되었거나, 감시여부가 수동이면 스케쥴버튼 비활성화
             if (String.IsNullOrEmpty(Global.clientSeq) || Global.clientSeq.Equals("0") || Global.folderAutoYn.Equals("N"))
                 btnSchedule.Enabled = false;
-
+            
+            // 사용자에게 권한이 없으면 클라이언트 버튼 비활성화
+            if (!Global.useYn.Equals("Y"))
+                btnClient.Enabled = false;
+            
             // 사용자 정보 출력
             lblPrivateInfo.Text = Global.deptNm + " " + Global.teamNm + " " + Global.userNm;
 

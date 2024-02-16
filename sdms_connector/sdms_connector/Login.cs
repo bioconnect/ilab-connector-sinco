@@ -28,6 +28,7 @@ namespace sdms_connector
         static public string tbServer_send;
         static public string req_min;
         static public string req_max;
+        public static string req_useYn;
 
         public Login()
         {
@@ -172,7 +173,7 @@ namespace sdms_connector
         // 로그인 버튼 클릭시
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if (String.IsNullOrEmpty(tbServer.Text))
+            if (string.IsNullOrEmpty(tbServer.Text))
             {
                 MessageBox.Show(Global.GetMultiLang("E-MSG-INPUT_REQURIED", "서버정보", "서버정보는 필수 입력 항목 입니다."));
 
@@ -180,7 +181,7 @@ namespace sdms_connector
                 return;
             }
 
-            if (String.IsNullOrEmpty(tbUserID.Text) || tbUserID.Text.Equals("ID"))
+            if (string.IsNullOrEmpty(tbUserID.Text) || tbUserID.Text.Equals("ID"))
             {
                 MessageBox.Show(Global.GetMultiLang("E-MSG-INPUT_REQURIED", "아이디", "아이디는 필수 입력 항목 입니다."));
 
@@ -188,7 +189,7 @@ namespace sdms_connector
                 return;
             }
 
-            if (String.IsNullOrEmpty(tbPwd.Text) || tbPwd.Text.Equals("PASSWORD"))
+            if (string.IsNullOrEmpty(tbPwd.Text) || tbPwd.Text.Equals("PASSWORD"))
             {
                 MessageBox.Show(Global.GetMultiLang("E-MSG-INPUT_REQURIED", "비밀번호", "비밀번호는 필수 입력 항목 입니다."));
                 tbPwd.Focus();
@@ -221,10 +222,16 @@ namespace sdms_connector
             // call
             string targetUrl = "http://" + tbServer.Tag + "/api/config/login.do";
             JObject resultJson = RestApiRequest.CallSync(reqParams, targetUrl);
+            
+            System.Diagnostics.Debug.WriteLine("<<<< Login Params >>>>" + resultJson);
+            
             tbServer_send = tbServer.Tag.ToString();
             req_send = reqParams;
-            req_min = resultJson["minCnt"].ToString();
-            req_max = resultJson["maxCnt"].ToString();
+            req_min = resultJson["minCnt"]?.ToString();
+            req_max = resultJson["maxCnt"]?.ToString();
+            req_useYn = resultJson["useYn"]?.ToString();
+            Global.useYn = req_useYn;
+            
             int numToEndDate = Convert.ToInt32(resultJson["daysToEndDate"].ToString());
             if (numToEndDate < 10)
             {

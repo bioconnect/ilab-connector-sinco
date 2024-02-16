@@ -19,6 +19,7 @@ namespace LSP.Common
         public static string teamNm;    // 팀명
         public static string userNm;    // 사용자명
         public static string lang;    // 사용자명
+        public static string useYn;
 
 
         // FTP 정보
