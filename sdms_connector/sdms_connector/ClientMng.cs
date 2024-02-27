@@ -187,6 +187,9 @@ namespace sdms_connector
                 , auditResult["svrPk"]);
             SQLiteHelper.SaveData(sql);
 
+            SignForm SF = new SignForm();
+            SF.ShowDialog();
+
             // 3. 서버로 전송
 
             if (Global.clientSeq != clientSeq)
