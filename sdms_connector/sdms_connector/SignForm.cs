@@ -19,6 +19,7 @@ namespace sdms_connector
             // TextBox Event
             userID.GotFocus += userID_GotFocus;
             signPw.GotFocus += signPw_GotFocus;
+            signContents.GotFocus += signContents_GotFocus;
 
             ActiveInputControl();
         }
@@ -39,13 +40,22 @@ namespace sdms_connector
         {
             userID.Enabled = true;
             signPw.Enabled = true;
+            signContents.Enabled = true;
+            
 
             userID.BackColor = Color.White;
             signPw.BackColor = Color.White;
+            signContents.BackColor = Color.White;
         }
 
         private void confirmButton_Click(object sender, EventArgs e)
         {
+            if (!btnAgree.Checked)
+            {
+                MessageBox.Show(@"위 내용에 동의해야 합니다.");
+                return;
+            }
+            
             
             if (string.IsNullOrEmpty(userID.Text) || userID.Text.Equals("ID"))
             {
@@ -67,6 +77,7 @@ namespace sdms_connector
             reqParams.Add("userId", Global.userId);
             reqParams.Add("signUserId", userID.Text);
             reqParams.Add("signPw", signPw.Text);
+            reqParams.Add("signContents", signContents.Text);
             reqParams.Add("clientIP", Global.clientIP);
             reqParams.Add("comCd",Global.comCd);
             reqParams.Add("plantCd",Global.plantCd);
@@ -102,6 +113,12 @@ namespace sdms_connector
             signPw.ForeColor = Color.Black;
             signPw.PasswordChar = '*';
             
+        }
+        
+        private void signContents_GotFocus(object sender, EventArgs e)
+        {
+            signContents.Text = string.Empty;
+            signContents.ForeColor = Color.Black;
         }
 
         private void cancelButton_Click(object sender, EventArgs e)

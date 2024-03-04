@@ -1,4 +1,5 @@
 using System.ComponentModel;
+using System.Drawing;
 
 namespace sdms_connector
 {
@@ -45,6 +46,10 @@ namespace sdms_connector
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.signPw = new System.Windows.Forms.TextBox();
             this.userID = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.btnAgree = new System.Windows.Forms.CheckBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.signContents = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
@@ -52,7 +57,7 @@ namespace sdms_connector
             // 
             // confirmButton
             // 
-            this.confirmButton.Location = new System.Drawing.Point(134, 259);
+            this.confirmButton.Location = new System.Drawing.Point(134, 288);
             this.confirmButton.Name = "confirmButton";
             this.confirmButton.Size = new System.Drawing.Size(93, 38);
             this.confirmButton.TabIndex = 0;
@@ -62,7 +67,7 @@ namespace sdms_connector
             // 
             // cancelButton
             // 
-            this.cancelButton.Location = new System.Drawing.Point(294, 259);
+            this.cancelButton.Location = new System.Drawing.Point(322, 288);
             this.cancelButton.Name = "cancelButton";
             this.cancelButton.Size = new System.Drawing.Size(93, 38);
             this.cancelButton.TabIndex = 1;
@@ -72,7 +77,7 @@ namespace sdms_connector
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(54, 93);
+            this.label1.Location = new System.Drawing.Point(47, 159);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(100, 21);
             this.label1.TabIndex = 2;
@@ -80,7 +85,7 @@ namespace sdms_connector
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(54, 152);
+            this.label2.Location = new System.Drawing.Point(47, 197);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(113, 23);
             this.label2.TabIndex = 3;
@@ -182,7 +187,7 @@ namespace sdms_connector
             this.signPw.Enabled = false;
             this.signPw.Font = new System.Drawing.Font("굴림", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
             this.signPw.ForeColor = System.Drawing.Color.Gray;
-            this.signPw.Location = new System.Drawing.Point(192, 148);
+            this.signPw.Location = new System.Drawing.Point(194, 193);
             this.signPw.Name = "signPw";
             this.signPw.Size = new System.Drawing.Size(243, 24);
             this.signPw.TabIndex = 5;
@@ -195,11 +200,55 @@ namespace sdms_connector
             this.userID.Enabled = false;
             this.userID.Font = new System.Drawing.Font("굴림", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
             this.userID.ForeColor = System.Drawing.Color.Gray;
-            this.userID.Location = new System.Drawing.Point(192, 89);
+            this.userID.Location = new System.Drawing.Point(194, 156);
             this.userID.Name = "userID";
             this.userID.Size = new System.Drawing.Size(243, 24);
             this.userID.TabIndex = 4;
             this.userID.Text = "ID";
+            // 
+            // label6
+            // 
+            this.label6.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label6.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label6.Location = new System.Drawing.Point(36, 42);
+            this.label6.Margin = new System.Windows.Forms.Padding(3);
+            this.label6.Name = "label6";
+            this.label6.Padding = new System.Windows.Forms.Padding(5);
+            this.label6.Size = new System.Drawing.Size(452, 99);
+            this.label6.TabIndex = 6;
+            this.label6.Text = "전자 서명을 사용하시려면 아래의 내용에 동의하셔야 합니다.\r\n\r\n이 전자 서명은 iLAB 시스템 내부에서 수기서명과 동일한 효력을 가집니다.\r\n\r" + "\n\r\n         위 내용에 동의합니다.";
+            // 
+            // btnAgree
+            // 
+            this.btnAgree.Location = new System.Drawing.Point(59, 107);
+            this.btnAgree.Name = "btnAgree";
+            this.btnAgree.Size = new System.Drawing.Size(22, 22);
+            this.btnAgree.TabIndex = 7;
+            this.btnAgree.Text = "btnAgree";
+            this.btnAgree.UseVisualStyleBackColor = true;
+            // 
+            // label7
+            // 
+            this.label7.Location = new System.Drawing.Point(47, 231);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(113, 23);
+            this.label7.TabIndex = 8;
+            this.label7.Text = "전자서명 메시지 ";
+            // 
+            // textBox3
+            // 
+            this.signContents.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.signContents.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.signContents.Enabled = false;
+            this.signContents.Font = new System.Drawing.Font("굴림", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel, ((byte)(129)));
+            this.signContents.ForeColor = System.Drawing.Color.Gray;
+            this.signContents.Location = new System.Drawing.Point(194, 227);
+            this.signContents.Name = "signContents";
+            this.signContents.Size = new System.Drawing.Size(294, 24);
+            this.signContents.TabIndex = 9;
+            this.signContents.Text = "";
             // 
             // SignForm
             // 
@@ -207,6 +256,10 @@ namespace sdms_connector
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(535, 359);
+            this.Controls.Add(this.signContents);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.btnAgree);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.signPw);
             this.Controls.Add(this.userID);
             this.Controls.Add(this.label2);
@@ -225,8 +278,15 @@ namespace sdms_connector
             this.PerformLayout();
         }
 
+        private System.Windows.Forms.Label label7;
+
+        private System.Windows.Forms.CheckBox btnAgree;
+
+        private System.Windows.Forms.Label label6;
+
         private System.Windows.Forms.TextBox signPw;
         private System.Windows.Forms.TextBox userID;
+        private System.Windows.Forms.TextBox signContents;
 
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         private System.Windows.Forms.Label label5;
