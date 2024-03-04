@@ -64,8 +64,12 @@ namespace sdms_connector
             Cursor.Current = Cursors.WaitCursor;
             // set req params
             var reqParams = new JObject();
-            reqParams.Add("userId", userID.Text);
+            reqParams.Add("userId", Global.userId);
+            reqParams.Add("signUserId", userID.Text);
             reqParams.Add("signPw", signPw.Text);
+            reqParams.Add("clientIP", Global.clientIP);
+            reqParams.Add("comCd",Global.comCd);
+            reqParams.Add("plantCd",Global.plantCd);
             
             System.Diagnostics.Debug.WriteLine("<<<< Login Params >>>>" + reqParams);
             
